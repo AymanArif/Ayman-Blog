@@ -1,9 +1,9 @@
-# Social network site
+= Social network site
 
-> College project for software systems
+NOTE: College project for software systems
 
 
-## Tech stack
+== Tech stack
 
 
 1. Windows
